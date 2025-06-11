@@ -16,10 +16,17 @@ PCB
 ![image](https://github.com/user-attachments/assets/7254226e-2f20-42b2-a01c-c12f2162d196)
 
 schematic
+
 ![image](https://github.com/user-attachments/assets/7fec56f8-523b-43bc-b663-39fa7b9f6a94)
 
 Top case
+
 ![image](https://github.com/user-attachments/assets/dc423287-c156-410a-b53c-1d52f39c73d0)
 
 Bottom case
+
 ![image](https://github.com/user-attachments/assets/198efd54-e60b-4ad8-9e0a-6505429fe3ba)
+
+Assembled case
+
+![image](https://github.com/user-attachments/assets/f4b4f5c5-8301-43c1-ad38-3bc17d8e0294)
